@@ -29,7 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5
 
 <h2>Installation Steps</h2>
+Welcome to my first in-depth tutorial. In this guide, we will begin by creating a virtual machine (VM) using Microsoft Azure via the Azure Portal.
 
+Virtual machines are essentially remote computers that allow us to run and test software in a controlled environment. This helps protect our physical machines from potential issues or malfunctions during setup or experimentation.
 ![vm](https://github.com/user-attachments/assets/5bff25ab-7706-41a1-9ddd-c5a30ff319bd)
 
 
