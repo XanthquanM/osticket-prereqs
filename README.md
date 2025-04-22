@@ -36,12 +36,12 @@ Virtual machines are essentially remote computers that allow us to run and test 
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once your virtual machine has been successfully deployed, the next step is to connect to it using Remote Desktop Protocol (RDP). This allows you to interact with the virtual machine just like you would with a local computer.
 </p>
 <br />
 
 ![image alt](https://github.com/XanthquanM/osticket-prereqs/blob/878d8c759ebcf1847f69cd26700cee87486b64e1/Screenshot%202025-04-22%20103634.png)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
