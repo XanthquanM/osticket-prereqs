@@ -42,6 +42,28 @@ Once your virtual machine has been successfully deployed, the next step is to co
 
 ![image alt](https://github.com/XanthquanM/osticket-prereqs/blob/878d8c759ebcf1847f69cd26700cee87486b64e1/Screenshot%202025-04-22%20103634.png)
 
+Now that you have successfully connected to your virtual machine, the next step is to enable Internet Information Services (IIS), which will allow the VM to serve web content. This is an essential step in preparing the environment for applications such as osTicket.
+
+To Enable IIS with CGI:
+On your virtual machine, open the Control Panel.
+
+Click on Programs.
+
+Under Programs and Features, select Turn Windows features on or off (located in the left sidebar).
+
+In the Windows Features dialog that appears:
+
+Check the box next to Internet Information Services.
+
+Expand the Internet Information Services section.
+
+Under Web Management Tools and World Wide Web Services, ensure that necessary subcomponents are also selected.
+
+Specifically, expand Application Development Features and check CGI.
+
+Click OK to apply the changes.
+
+Windows will now install and enable IIS with CGI support. Once completed, your virtual machine will be ready to host web applications.
 </p>
 <br />
 
