@@ -76,3 +76,5 @@ You can download them directly to your virtual machine using this link:
 👉 [Download osTicket Installation Files](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 
 Just open a browser on your VM, paste the link above, and the download should start automatically. Once it’s downloaded, go ahead and extract the files somewhere easy to find — like your desktop 
+
+Now that you've downloaded the osTicket installation files, let’s get your VM ready to actually run osTicket. We’ll be installing a few key components like PHP, the rewrite module, and MySQL.
