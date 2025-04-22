@@ -69,7 +69,10 @@ Windows will now install and enable IIS with CGI support. Once completed, your v
 
 ![image alt](https://github.com/XanthquanM/osticket-prereqs/blob/56eaa078c81614b364525f331a0013142b391583/Screenshot%202025-04-22%20110804.png)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Alright, now that IIS is up and running, we’re ready to grab the osTicket installation files.
+
+You can download them directly to your virtual machine using this link:
+
+👉 Download osTicket Installation Files
+
+Just open a browser on your VM, paste the link above, and the download should start automatically. Once it’s downloaded, go ahead and extract the files somewhere easy to find — like your desktop or C:\inetpub\wwwroot (since that's where IIS serves files from by default).
