@@ -67,7 +67,7 @@ Windows will now install and enable IIS with CGI support. Once completed, your v
 </p>
 <br />
 
-![image alt]()
+![image alt](https://github.com/XanthquanM/osticket-prereqs/blob/56eaa078c81614b364525f331a0013142b391583/Screenshot%202025-04-22%20110804.png)
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
