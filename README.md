@@ -77,4 +77,4 @@ You can download them directly to your virtual machine using this link:
 
 Just open a browser on your VM, paste the link above, and the download should start automatically. Once it’s downloaded, go ahead and extract the files somewhere easy to find — like your desktop 
 
-Now that you've downloaded the osTicket installation files, let’s get your VM ready to actually run osTicket. We’ll be installing a few key components like PHP, the rewrite module, and MySQL.
+Now open iis as a admin register php within iis then reload iis“ install osTicket-v1.15.8.zip” and copy the upload folder into “c:\inetpub\wwwroot” rename upload to osTicket  
