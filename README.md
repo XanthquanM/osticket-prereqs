@@ -42,28 +42,16 @@ Once your virtual machine has been successfully deployed, the next step is to co
 
 ![image alt](https://github.com/XanthquanM/osticket-prereqs/blob/878d8c759ebcf1847f69cd26700cee87486b64e1/Screenshot%202025-04-22%20103634.png)
 
-Now that you have successfully connected to your virtual machine, the next step is to enable Internet Information Services (IIS), which will allow the VM to serve web content. This is an essential step in preparing the environment for applications such as osTicket.
+After successfully connecting to your virtual machine, the next step is to enable Internet Information Services (IIS), which is necessary for the VM to serve web content and support applications like osTicket. To do this, open the Control Panel on your virtual machine and click on "Programs." Under "Programs and Features," select "Turn Windows features on or off" from the left sidebar. In the Windows Features dialog that appears, check the box next to "Internet Information Services." Then, expand the IIS section to ensure the proper subcomponents are enabled. Under both "Web Management Tools" and "World Wide Web Services," make sure all necessary features are selected. Most importantly, under "Application Development Features," expand the section and check the box for "CGI." Once all the required components are selected, click "OK" to apply the changes. Windows will then install and enable IIS with CGI support, preparing your virtual machine to host web applications.
 
-To Enable IIS with CGI:
-On your virtual machine, open the Control Panel.
 
-Click on Programs.
 
-Under Programs and Features, select Turn Windows features on or off (located in the left sidebar).
 
-In the Windows Features dialog that appears:
 
-Check the box next to Internet Information Services.
 
-Expand the Internet Information Services section.
 
-Under Web Management Tools and World Wide Web Services, ensure that necessary subcomponents are also selected.
 
-Specifically, expand Application Development Features and check CGI.
-
-Click OK to apply the changes.
-
-Windows will now install and enable IIS with CGI support. Once completed, your virtual machine will be ready to host web applications.
+l machine will be ready to host web applications.
 </p>
 <br />
 
